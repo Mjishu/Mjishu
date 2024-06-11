@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mjishu
-- 👀 I’m interested in creating websites, especially ones that pertain to my interests
+- 👀 I’m interested in creating websites, finding out how things work and creating solutions!
 - 🌱 I’m currently learning JS, DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
