@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joshua Colpean
 ======================================================================================================================================
 
-Software egineer sharing my journey
+Software engineer sharing my journey
 -----------------------------------
 
 I started to code in python and cs50, I then found TheOdinProject and started my journey in web development and have found a large passion for full stack projects!
